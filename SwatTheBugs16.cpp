@@ -13,7 +13,7 @@ int main()
 	temp = temp + 1.5
 
 	//display variable's value
-	cout << "After adding 1.5, the temp variable now contains " << temp << "." << end1;
+	cout << "After adding 1.5, the temp variable now contains " << 1.5 << "." << end1;
 
 	system("pause");
 	return 0;
