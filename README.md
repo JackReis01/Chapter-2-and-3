@@ -30,4 +30,4 @@ Enrichment: If the amount of eggs is more than 10 dozen output for the price of 
 The manager of the Lake View Hotel wants a program that calculates and displays a guest's total bill. Each guest pays a room charge that is based on a per-night rate. For example, if the per-night rate is $100 and the guest stays two nights. the room charge is $200. Customers also may incur a one-time room service charge  of $35 dollars and a one-time telephone charge of $0.25 per minute. 
 <br>
 <b>2.4) Turn to page 71 in the book </b><br>
-Complete the following problems 7, 8, 9, and 10.
+Complete the following problems 8, 9, and 10.
